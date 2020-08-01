@@ -1,0 +1,6 @@
+# cargo: compiled files and executables
+debug/
+target/
+
+# rustfmt: backup files
+**/*.rs.bk
